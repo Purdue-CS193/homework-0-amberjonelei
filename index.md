@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Meeting new people in CS
+- Learning Helppful tools
+- getting prepared for other CS classes
 
 1. Numbered
 2. List
