@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Meeting new people in CS
-- Learning Helppful tools
+- Learning Helpful tools
 - getting prepared for other CS classes
 
 1. Numbered
